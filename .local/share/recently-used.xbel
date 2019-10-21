@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/j/VBox_GAs_6.0.14/VBoxWindowsAdditions-amd64.exe" added="2019-10-20T02:17:48Z" modified="2019-10-20T02:17:48Z" visited="2019-10-20T02:17:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2019-10-20T02:17:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/j/Desktop/OpenDocument%20Text.odt" added="2019-10-20T02:18:28Z" modified="2019-10-20T03:29:51Z" visited="2019-10-20T02:18:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-20T03:29:51Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/j/VBox_GAs_6.0.14/autorun.sh" added="2019-10-20T02:58:19Z" modified="2019-10-20T02:58:19Z" visited="2019-10-20T02:58:19Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2019-10-20T02:58:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/j/VBox_GAs_6.0.14/VBoxWindowsAdditions-x86.exe" added="2019-10-20T02:58:42Z" modified="2019-10-20T02:58:42Z" visited="2019-10-20T02:58:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2019-10-20T02:58:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/j/VBox_GAs_6.0.14/cert/VBoxCertUtil.exe" added="2019-10-20T02:59:16Z" modified="2019-10-20T02:59:17Z" visited="2019-10-20T02:59:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2019-10-20T02:59:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
